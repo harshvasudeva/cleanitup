@@ -1,0 +1,23 @@
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# Build products
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# CocoaPods / SPM
+Pods/
+.build/
+
+# OS files
+.DS_Store
+*.swp
+*~
+
+# Provisioning profiles
+*.mobileprovision
+*.provisionprofile
