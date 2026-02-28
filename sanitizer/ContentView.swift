@@ -139,11 +139,11 @@ struct ContentView: View {
 
                 // About section
                 Section {
-                    Link(destination: URL(string: "https://harshvasudeva.com/cleanitup/privacy")!) {
+                    Link(destination: URL(string: "https://github.com/harshvasudeva/cleanitup/blob/main/PRIVACY_POLICY.md")!) {
                         Label("Privacy Policy", systemImage: "hand.raised")
                     }
 
-                    Link(destination: URL(string: "mailto:support@harshvasudeva.com")!) {
+                    Link(destination: URL(string: "mailto:harshvasudeva11@gmail.com")!) {
                         Label("Contact Support", systemImage: "envelope")
                     }
                 } header: {
